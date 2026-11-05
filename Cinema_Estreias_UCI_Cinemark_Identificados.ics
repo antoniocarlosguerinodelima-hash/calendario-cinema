@@ -1,401 +1,2806 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Cinema UCI Analia Franco//Estreias 2026//PT-BR
+PRODID:-//Calendario Cinema SP//Estreias 2026-2028//PT-BR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Cinema - UCI Anália Franco + Cinemark Mooca
-X-WR-CALDESC:Estreias UCI Anália Franco e Cinemark Mooca Plaza a partir de 05/11/2026. Arquivo estático.
+X-WR-CALDESC:Estreias brasileiras previstas; sessoes nas unidades podem nao
+  estar confirmadas.
 REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-
 UID:249ca542e03050d18cd66e4b1e091593@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Assalto à Brasileira — UCI ✓
-DESCRIPTION:Sessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Assalto à Brasileira — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 05/11/2
+ 026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Assalto à Brasileira
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:301cd26d3c685352a2a6a00ffd519ed4@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Cavalo Selvagem Nove — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Cavalo Selvagem Nove — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 05/11/2
+ 026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Cavalo Selvagem Nove
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:af061f34a2875fc5b4f7931858dd80b1@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:a32cfec813da7a3b9d190ae5@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Feito Pipa — UCI ✓
-DESCRIPTION:Sessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Cássia Eller (Relançamento) — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 05/11/2026\; Versão a
+ nterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Cássia Eller (Relançamento)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af061f34a2875fc5b4f7931858dd80b1@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Feito Pipa — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 05/11/2
+ 026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Feito Pipa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:8e5eeb888c85533e9d7ad6a15acc6733@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:e86bf76a260a3de6795c0824@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Godzilla Minus Zero — UCI + Cinemark ✓
-DESCRIPTION:Cinemark Mooca Plaza: sessões identificadas na programação consultada em 04/11/2026 para estreia de 05/11/2026.\nFonte Cinemark: https://www.ingresso.com/cinema/cinemark-mooca\nSessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:George Michael: The Faith Tour — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 05/11/2026\; Versão a
+ nterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: George Michael: The Faith Tour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e5eeb888c85533e9d7ad6a15acc6733@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Godzilla Minus Zero — UCI + Cinemark
+DESCRIPTION:Anunciado nas redes: Cinemark\, UCI\nAs datas de estreia NÃO c
+ onfirmam sessões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFont
+ es: Lista inicial BR\, Versão anterior\nDatas consultadas: Lista inicial 
+ BR: 05/11/2026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com
+ .br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?me
+ nu=em_breve\nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Godzilla Minus Zero
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:336afc7953b8590f95fc78c1927246e8@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Klara e o Sol — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Klara e o Sol — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 05/11/2
+ 026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Klara e o Sol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:a3f6956fff315f4ea7e72216ab2366c0@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:0cdb112b053bc91a2d0f4c86f2f18127@cinema-calendar.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Os Farofeiros 3 — UCI + Cinemark ✓
-DESCRIPTION:Cinemark Mooca Plaza: sessões identificadas na programação consultada em 04/11/2026 para estreia de 05/11/2026.\nFonte Cinemark: https://www.ingresso.com/cinema/cinemark-mooca\nSessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:O Gatola da Cartola — Cinemark
+DESCRIPTION:Anunciado nas redes: Cinemark\nAs datas de estreia NÃO confirm
+ am sessões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Li
+ sta inicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 05
+ /11/2026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com.br/Fi
+ lmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_
+ breve\nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Gatola da Cartola
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f6956fff315f4ea7e72216ab2366c0@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Os Farofeiros 3 — UCI + Cinemark
+DESCRIPTION:Anunciado nas redes: Cinemark\, UCI\nAs datas de estreia NÃO c
+ onfirmam sessões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFont
+ es: Lista inicial BR\, Versão anterior\nDatas consultadas: Lista inicial 
+ BR: 05/11/2026\; Versão anterior: 05/11/2026\nUCI: https://ucicinemas.com
+ .br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?me
+ nu=em_breve\nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Os Farofeiros 3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:6337a46c2338507ab6fad5404c010585@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Gustavo Mioto - Inconfundível Tour — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Gustavo Mioto - Inconfundível Tour — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 06/11/2
+ 026\; Versão anterior: 06/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Gustavo Mioto - Inconfundível Tour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:744dbce3e5435a4cacc36a3007a753aa@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Stray Kids World Tour - RUN IT - Live Viewing — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Stray Kids World Tour - RUN IT - Live Viewing — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 07/11/2
+ 026\; Versão anterior: 07/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
-DESCRIPTION:Estreia em 7 dias: Stray Kids World Tour - RUN IT - Live Viewing
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Stray Kids World Tour - RUN IT - Live Viewin
+ g
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:710a585ef5e05617a8981cc66e8d4c9b@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:Opera Ballet - Romeo & Juliet — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Opera Ballet - Romeo & Juliet — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Versão
+  anterior\nDatas consultadas: Versão anterior: 08/11/2026\nUCI: https://u
+ cicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinema
+ rk.com.br/?menu=em_breve\nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Opera Ballet - Romeo & Juliet
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
+UID:d5e087c1218e0d823df2c8a5@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Paris Opera Ballet - Romeo & Juliet — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 08/11/2026\; Versão a
+ nterior: 08/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Paris Opera Ballet - Romeo & Juliet
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:908af180500d563eaaa844118c559699@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:A Virada: Ignição da Alma — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:A Virada: Ignição da Alma — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 12/11/2
+ 026\; Versão anterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: A Virada: Ignição da Alma
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:bc5f143f499a5381ae640c38c348ae3b@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:32cfc3b1a4ecb3baafe3c807@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Como Roubar um Banco — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Apenas Uma Ilusão — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Apenas Uma Ilusão
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66c637010194b1c76bcd455d@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Boiúna: Terror no Amazonas — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Boiúna: Terror no Amazonas
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5f143f499a5381ae640c38c348ae3b@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Como Roubar um Banco — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 12/11/2
+ 026\; Versão anterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Como Roubar um Banco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:f2eb927a7556512988913fb565fe6ed9@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:ed991c68f402f1582807edef@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Ebenezer e os Fantasmas do Natal — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Contos Paralelos — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Contos Paralelos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2eb927a7556512988913fb565fe6ed9@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Ebenezer e os Fantasmas do Natal — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 12/11/2
+ 026\; Versão anterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Ebenezer e os Fantasmas do Natal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:96f13989f8eb52e38d08eb1207d4cc84@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:0d64bcdbbc6cda87a8390780@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Lago dos Ossos — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Girls Like Girls — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Girls Like Girls
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:96f13989f8eb52e38d08eb1207d4cc84@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lago dos Ossos — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 12/11/2
+ 026\; Versão anterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Lago dos Ossos
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:73d7d301f6085f6e9662be6963060cf9@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:3782a1e97f5d86d0fceaccca@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Velozes e Furiosos (25º Aniversário) — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Miss Moxy — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Miss Moxy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c6238a9539b1f1240eff9624@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Pinóquio: Maldição de Madeira — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/11/2026\; Versão a
+ nterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Pinóquio: Maldição de Madeira
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:73d7d301f6085f6e9662be6963060cf9@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Velozes e Furiosos (25º Aniversário) — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 12/11/2
+ 026\; Versão anterior: 12/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Velozes e Furiosos (25º Aniversário)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:38621f78e3d25a80be74d0dfaf54edd9@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:132f093387965f3892933331@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Eu Sou o Rocky — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Camisas Negras — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 19/11/2026\; Versão a
+ nterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Camisas Negras
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38621f78e3d25a80be74d0dfaf54edd9@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Eu Sou o Rocky — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 19/11/2
+ 026\; Versão anterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Eu Sou o Rocky
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:2abe737de88f5771b318544ac9e6f6b7@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:52ebae58725149d82a9a3eba@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:I Love Boosters — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Eu Vou Ter Saudades de Você — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 19/11/2026\; Versão a
+ nterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Eu Vou Ter Saudades de Você
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2abe737de88f5771b318544ac9e6f6b7@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:I Love Boosters — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 19/11/2
+ 026\; Versão anterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: I Love Boosters
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:607b171a78f55ad196d5edc15ad49e91@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:48cf6f6ba003d6c7c7cc11e4@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Jogos Vorazes - Amanhecer na Colheita — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Jim Queen — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 19/11/2026\; Versão a
+ nterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Jim Queen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:607b171a78f55ad196d5edc15ad49e91@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Jogos Vorazes - Amanhecer na Colheita — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 19/11/2
+ 026\; Versão anterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Jogos Vorazes - Amanhecer na Colheita
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:11d0d19b1e165613a2b227421d255d2d@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:f63a4df1b5bf37fb615e1fc9@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:O Verão da Lata — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Malês (Relançamento) — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 19/11/2026\; Versão a
+ nterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Malês (Relançamento)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11d0d19b1e165613a2b227421d255d2d@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:O Verão da Lata — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 19/11/2
+ 026\; Versão anterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: O Verão da Lata
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:f13fc29cff1052b88517c18b66b40d70@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Ramayana: O Nascimento de uma Lenda — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Ramayana: O Nascimento de uma Lenda — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 19/11/2
+ 026\; Versão anterior: 19/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Ramayana: O Nascimento de uma Lenda
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:61d39e3b729c53eeb158aad12fb1cd07@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:BTS World Tour 'Arirang' in Kaohsiung — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:BTS World Tour 'Arirang' in Kaohsiung — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 21/11/2
+ 026\; Versão anterior: 21/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: BTS World Tour 'Arirang' in Kaohsiung
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:03ce9519ac635919a268c6f597414f30@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:da738deb7304fa0bec5895d1@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Enfeitiçadas: Bem-vindos a Hexe — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Dona Onete: Meu Coração Neste Pedacinho Aqui — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Dona Onete: Meu Coração Neste Pedacinho Aq
+ ui
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:03ce9519ac635919a268c6f597414f30@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Enfeitiçadas: Bem-vindos a Hexe — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 26/11/2
+ 026\; Versão anterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Enfeitiçadas: Bem-vindos a Hexe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
 UID:f0685ba9e12358d3a35da7abcfd6e21d@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Entrando Numa Grande Fria — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Entrando Numa Grande Fria — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 26/11/2
+ 026\; Versão anterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Entrando Numa Grande Fria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:b1f282b126525faa9aa529c4531e864a@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:d4ab7db6d55c76d71100c0f6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Pecadora — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Kopenawa: Sonhar a Terra-Floresta — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Kopenawa: Sonhar a Terra-Floresta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d539dc1ebf601ef366e016e3@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:O Intruso — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Intruso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f282b126525faa9aa529c4531e864a@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Pecadora — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 26/11/2
+ 026\; Versão anterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Pecadora
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:22c60cf902095d66a763d90a3f1deb31@uci-calendar.local
-DTSTAMP:20261105T110151Z
+UID:12f1e9b5a36096cec686791f@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:The Money Maker — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Money Maker
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcbda2a6d0b0631b6a89ef68@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Tudo Pode Ser Visto — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Tudo Pode Ser Visto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5dee9f637f05759d7e96ba23@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Yellow Cake — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 26/11/2026\; Versão a
+ nterior: 26/11/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Yellow Cake
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8c94bc23063fff0f27000409@estreias-cinema.local
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Zero D.C — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:A Última Entrega — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Última Entrega
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83c47eee1365c67e978df1ec@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Behemoth! Uma Vida Composta em Peças — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Behemoth! Uma Vida Composta em Peças
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c5670e1418610562db91fe04@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Fiz um Foguete Imaginando que Você Vinha — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Fiz um Foguete Imaginando que Você Vinha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bda4d4101f916b477b6446e9@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Guardiões do Reino — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Guardiões do Reino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e46ec428103f510100b0e715@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Minotauro — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Minotauro
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1b911c5807c9f415f29014e6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Noite Ainda Mais Infeliz — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Noite Ainda Mais Infeliz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f69941ac81eef05e76af58d0@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:One Piece: Aventura na Ilha Espiral — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: One Piece: Aventura na Ilha Espiral
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efa63f20456fd7a69ccebaa6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Psicopata Vitoriana — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/12/2026\; Versão a
+ nterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Psicopata Vitoriana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22c60cf902095d66a763d90a3f1deb31@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Zero D.C — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 03/12/2
+ 026\; Versão anterior: 03/12/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Zero D.C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
+UID:5fa9b7c6881ac0157e7d87fd@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:A Paixão de Cristo (Relançamento) — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/12/2026\; Versão a
+ nterior: 10/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Paixão de Cristo (Relançamento)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4419cd569ca11b4b4057a221@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:La Vita Va Così — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/12/2026\; Versão a
+ nterior: 10/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: La Vita Va Così
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:376990833c24296f737bcd91@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Shrek (25º Aniversário) — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/12/2026\; Versão a
+ nterior: 10/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Shrek (25º Aniversário)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:9a0bb8a99df7559b8282fd603e14df65@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:Paris Opera Ballet - O Lago dos Cisnes — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Paris Opera Ballet - O Lago dos Cisnes — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 13/12/2
+ 026\; Versão anterior: 13/12/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Paris Opera Ballet - O Lago dos Cisnes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
+UID:bab992ec1176344958f9a120@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Vingadores: Doutor Destino — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/12/2026\; Versão a
+ nterior: 16/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Vingadores: Doutor Destino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:4f0a91d5a121581493a70bfa3d22c4b1@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Duna - Parte 3 — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:Duna - Parte 3 — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 17/12/2
+ 026\; Versão anterior: 17/12/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Duna - Parte 3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
+UID:12248539e75717fdf5b2cc2a@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Malu Tatu — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 17/12/2026\; Versão a
+ nterior: 17/12/2026\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Malu Tatu
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:fd03f111f8005b3bad9a84a86a2832d7@uci-calendar.local
-DTSTAMP:20261105T110151Z
+DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:BTS World Tour 'Arirang' in Jakarta — UCI (previsto)
-DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+SUMMARY:BTS World Tour 'Arirang' in Jakarta — UCI
+DESCRIPTION:Anunciado nas redes: UCI\nAs datas de estreia NÃO confirmam se
+ ssões no UCI Anália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista i
+ nicial BR\, Versão anterior\nDatas consultadas: Lista inicial BR: 29/12/2
+ 026\; Versão anterior: 29/12/2026\nUCI: https://ucicinemas.com.br/Filmes/
+ proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+ \nA programação e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
+TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: BTS World Tour 'Arirang' in Jakarta
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-
-UID:0cdb112b053bc91a2d0f4c86f2f18127@cinema-calendar.local
-DTSTAMP:20261105T110300Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:O Gatola da Cartola — Cinemark ✓
-DESCRIPTION:Cinemark Mooca Plaza: estreia 05/11/2026 e sessões identificadas na programação consultada em 04/11/2026.\nUCI Anália Franco: não confirmado nesta verificação.\nFonte: https://www.adorocinema.com/programacao/cinema-F0412/\nProgramação: https://www.ingresso.com/cinema/cinemark-mooca\nArquivo estático; não sincroniza alterações futuras automaticamente.
+UID:3916101f2c4bd76d0fb43847@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Angry Birds 3: O Filme — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 01/01/2027\; Versão a
+ nterior: 01/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-P7D
 ACTION:DISPLAY
-DESCRIPTION:Estreia em 7 dias: O Gatola da Cartola
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Angry Birds 3: O Filme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1139ba29431bce6b49e72d4f@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Jumanji: Mundo Real — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 07/01/2027\; Versão a
+ nterior: 07/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Jumanji: Mundo Real
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5da73889560436ce53cde6b5@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Rainha ao Mar — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 07/01/2027\; Versão a
+ nterior: 07/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Rainha ao Mar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0f2879304947fa26f01eb6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Tigre de Papel — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 07/01/2027\; Versão a
+ nterior: 07/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Tigre de Papel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:948ae509af3554230d62ec48@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:A Bola Preta — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 14/01/2027\; Versão a
+ nterior: 14/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Bola Preta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7417a4c2980851c15c30b575@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Filhos de Sangue e Osso — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 14/01/2027\; Versão a
+ nterior: 14/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Filhos de Sangue e Osso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb939cec07b8828ebefd576a@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Lobis-Homem — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 21/01/2027\; Versão a
+ nterior: 21/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Lobis-Homem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7599479ad512acb04db837@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Nosso Lar 3: Vida Eterna — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 21/01/2027\; Versão a
+ nterior: 21/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Nosso Lar 3: Vida Eterna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb88f0093f2ca9d2f0883d7@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:A Grande Estreia — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 28/01/2027\; Versão a
+ nterior: 28/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Grande Estreia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db026f3e6f0e08e35d174093@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Alice Júnior: Férias de Verão — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 28/01/2027\; Versão a
+ nterior: 28/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Alice Júnior: Férias de Verão
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c84033a48efb3810902054a@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Pendulum — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 28/01/2027\; Versão a
+ nterior: 28/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Pendulum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:913c4821fb3c955d2a14dc55@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Witch on the Holy Night: O Filme — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 28/01/2027\; Versão a
+ nterior: 28/01/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Witch on the Holy Night: O Filme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81d7a68f021767d788a5c29b@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:A Era do Gelo: Mundo de Lava — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/02/2027\; Versão a
+ nterior: 04/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Era do Gelo: Mundo de Lava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3225f12aa8a264ce87fc54e2@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:A Vida por um Sonho — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/02/2027\; Versão a
+ nterior: 04/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Vida por um Sonho
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed950724a8d38be03cef9ad@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Fjord — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/02/2027\; Versão a
+ nterior: 04/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Fjord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12c1cb46f9370c6fdaa5270a@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Vestígios — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/02/2027\; Versão a
+ nterior: 04/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Vestígios
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eec40bc128aaa13b42066a5c@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Nárnia: O Sobrinho do Mago — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 11/02/2027\; Versão a
+ nterior: 11/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Nárnia: O Sobrinho do Mago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:889b8404f7ffef6dbc58425b@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:O Último Rastro — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 18/02/2027\; Versão a
+ nterior: 18/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Último Rastro
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:572b77341a52679f79edd73c@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Star Wars: Uma Nova Esperança (50 anos) — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 18/02/2027\; Versão a
+ nterior: 18/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Star Wars: Uma Nova Esperança (50 anos)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e3255031ab8e403a4c7e6fe3@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:The Comeback King — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 18/02/2027\; Versão a
+ nterior: 18/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Comeback King
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5f2ebe131349401322f527@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:CoComelon: O Filme — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/02/2027\; Versão a
+ nterior: 25/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: CoComelon: O Filme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc165356e127b881973f413@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:K-Pop: The Debut — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/02/2027\; Versão a
+ nterior: 25/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: K-Pop: The Debut
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:89810d6dc45e3a0fd10fc927@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:The Revenge of La Llorona — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/02/2027\; Versão a
+ nterior: 25/02/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Revenge of La Llorona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9eb5a25c285ae0a11797b86@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Gatto — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/03/2027\; Versão a
+ nterior: 04/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Gatto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84db35d3bc153862b4fbc52b@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Picaretas Não Vão pro Céu — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/03/2027\; Versão a
+ nterior: 04/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Picaretas Não Vão pro Céu
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8de83140dc8255d0966455d0@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Se Não Eu\, Quem Vai Fazer Você Feliz? — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/03/2027\; Versão a
+ nterior: 04/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Se Não Eu\, Quem Vai Fazer Você Feliz?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfbae22821acbff65d9c4ba@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Thomas Crown: A Arte do Crime — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/03/2027\; Versão a
+ nterior: 04/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Thomas Crown: A Arte do Crime
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3573e8d5d82c8671aa10a7cb@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:O Exorcista — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 11/03/2027\; Versão a
+ nterior: 11/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Exorcista
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e5c1d3b3380c1e75bb6056@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Sonic 4: O Filme — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 18/03/2027\; Versão a
+ nterior: 18/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Sonic 4: O Filme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf08dba6779ffe9ae689dbf@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Godzilla e Kong: Supernova — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/03/2027\; Versão a
+ nterior: 25/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Godzilla e Kong: Supernova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db106de0147d03526c8f53a3@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Interligados — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/03/2027\; Versão a
+ nterior: 25/03/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Interligados
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e05d7018fd0cd3d583235d@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Sede de Sangue — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 01/04/2027\; Versão a
+ nterior: 01/04/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Sede de Sangue
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:072eb1e931370e2b4204af10@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:A Place in Hell — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 22/04/2027\; Versão a
+ nterior: 22/04/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Place in Hell
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:168133c1cee35cffcae84deb@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:A Ressurreição de Cristo: Parte 1 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 06/05/2027\; Versão a
+ nterior: 06/05/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Ressurreição de Cristo: Parte 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:54f3aee2d060157a03e7604e@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:The Legend of Zelda — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 06/05/2027\; Versão a
+ nterior: 06/05/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Legend of Zelda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf240951f8535ee408cf5b6f@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Star Wars: Starfighter — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 27/05/2027\; Versão a
+ nterior: 27/05/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Star Wars: Starfighter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c8fa668835b6f61bc47efa@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:John Rambo — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/06/2027\; Versão a
+ nterior: 03/06/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: John Rambo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8c0ea4fe512108f1081ed1@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Como Treinar o Seu Dragão 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/06/2027\; Versão a
+ nterior: 10/06/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Como Treinar o Seu Dragão 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:914fb82ef86c6b184177b4b9@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Possession — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/06/2027\; Versão a
+ nterior: 10/06/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Possession
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbe2ef9466a93b74802d5a1@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Shrek 5 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 24/06/2027\; Versão a
+ nterior: 24/06/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Shrek 5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e24ba7df878dab4e0f4be2e7@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Homem-Aranha: Além do Aranhaverso — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/07/2027\; Versão a
+ nterior: 16/07/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Homem-Aranha: Além do Aranhaverso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3c0fd7784b5448afcb3cd3@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Um Filme Minecraft 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 22/07/2027\; Versão a
+ nterior: 22/07/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Um Filme Minecraft 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:99507f383b1c3a98cfe90fcb@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Um Lugar Silencioso: Parte III — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 29/07/2027\; Versão a
+ nterior: 29/07/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Um Lugar Silencioso: Parte III
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:194d29b9c880cb2c692e8550@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Bluey: O Filme — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 05/08/2027\; Versão a
+ nterior: 05/08/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Bluey: O Filme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66999eca40c40e5251718461@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Tartarugas Ninja: Caos Mutante 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 12/08/2027\; Versão a
+ nterior: 12/08/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Tartarugas Ninja: Caos Mutante 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22ceaaf89eda6ab750745caf@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Os Simpsons 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 02/09/2027\; Versão a
+ nterior: 02/09/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Os Simpsons 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e1e6c271f42427f78c49f4f@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:The Conjuring: First Communion — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 09/09/2027\; Versão a
+ nterior: 09/09/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Conjuring: First Communion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32f6121120589fd578037f6c@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:The Great Beyond — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 30/09/2027\; Versão a
+ nterior: 30/09/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Great Beyond
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5790b1a9fad102b2e731bb42@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Frozen 3 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/11/2027\; Versão a
+ nterior: 25/11/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Frozen 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d44a587c95eb25681872b9@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:O Senhor dos Anéis: A Caçada por Gollum — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/12/2027\; Versão a
+ nterior: 16/12/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Senhor dos Anéis: A Caçada por Gollum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd109f9851b642d47048f26@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:Vingadores: Guerras Secretas — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/12/2027\; Versão a
+ nterior: 16/12/2027\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Vingadores: Guerras Secretas
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d45e0edf083598af1fa10a6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Lizard Music — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 06/01/2028\; Versão a
+ nterior: 06/01/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Lizard Music
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2971f6776584165328f8f959@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:O Segredo da Empregada — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 06/01/2028\; Versão a
+ nterior: 06/01/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Segredo da Empregada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd817f0f2d22705af2441c94@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:Alone at Dawn — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 13/01/2028\; Versão a
+ nterior: 13/01/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Alone at Dawn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68b29062938d32afeb048b70@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:Heart Eyes 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/02/2028\; Versão a
+ nterior: 03/02/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Heart Eyes 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1a9387d7df839fe6f90bef@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:Murder\, She Wrote — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 03/02/2028\; Versão a
+ nterior: 03/02/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Murder\, She Wrote
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51d4c2b5e0f6add2b8611f16@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:Batman: Parte II — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 17/02/2028\; Versão a
+ nterior: 17/02/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Batman: Parte II
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8e8e9bb8d3512ef10b8112@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:Grandgear — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 17/02/2028\; Versão a
+ nterior: 17/02/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Grandgear
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:733aac8ed742f0ece437b94a@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280309
+DTEND;VALUE=DATE:20280310
+SUMMARY:Ghost Market — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 09/03/2028\; Versão a
+ nterior: 09/03/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Ghost Market
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0674a3ba3b7ed71c337dc8e@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280316
+DTEND;VALUE=DATE:20280317
+SUMMARY:Fast Forever — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/03/2028\; Versão a
+ nterior: 16/03/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Fast Forever
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15f0b61a094f26a6975a33b1@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280316
+DTEND;VALUE=DATE:20280317
+SUMMARY:Oh\, the Places You’ll Go! — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 16/03/2028\; Versão a
+ nterior: 16/03/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Oh\, the Places You’ll Go!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53ba730850b8c2011c2eab35@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280330
+DTEND;VALUE=DATE:20280331
+SUMMARY:Enrolados — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 30/03/2028\; Versão a
+ nterior: 30/03/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Enrolados
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9bb84e4f036c78669fb2842@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280406
+DTEND;VALUE=DATE:20280407
+SUMMARY:The Beatles: Four Films (datas individuais a confirmar) — BR (pre
+ visto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 06/04/2028\; Versão a
+ nterior: 06/04/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Beatles: Four Films (datas individuais a
+  confirmar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:297e08f346a0ed9cae0bfd91@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:X-Men — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 04/05/2028\; Versão a
+ nterior: 04/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: X-Men
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0990669ab7b09906b1d5f455@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280511
+DTEND;VALUE=DATE:20280512
+SUMMARY:Final Destination 7 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 11/05/2028\; Versão a
+ nterior: 11/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Final Destination 7
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1379fc7fd1576a840ad526@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280511
+DTEND;VALUE=DATE:20280512
+SUMMARY:One Italian Summer — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 11/05/2028\; Versão a
+ nterior: 11/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: One Italian Summer
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:60c76684c86940d4cf8da959@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280518
+DTEND;VALUE=DATE:20280519
+SUMMARY:Miami Vice ’85 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 18/05/2028\; Versão a
+ nterior: 18/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Miami Vice ’85
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b8ccec89609e66275266139@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:A Ressurreição de Cristo: Parte Dois — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/05/2028\; Versão a
+ nterior: 25/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: A Ressurreição de Cristo: Parte Dois
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bde81ff203d6a267eb0a2cf6@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Lilo & Stitch 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 25/05/2028\; Versão a
+ nterior: 25/05/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Lilo & Stitch 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01d1bca6e4db5095bc07543b@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:Days of Thunder 2 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 01/06/2028\; Versão a
+ nterior: 01/06/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Days of Thunder 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f9adb566c9f37bf7e392f620@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280608
+DTEND;VALUE=DATE:20280609
+SUMMARY:Helldivers — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 08/06/2028\; Versão a
+ nterior: 08/06/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Helldivers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97022d0729790fb1e48d7ed7@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280608
+DTEND;VALUE=DATE:20280609
+SUMMARY:The Mandela Catalogue — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 08/06/2028\; Versão a
+ nterior: 08/06/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Mandela Catalogue
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98b6ef2801e3c41bbea77d30@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Os Incríveis 3 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 15/06/2028\; Versão a
+ nterior: 15/06/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Os Incríveis 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c62cbdb682c3d53b4ed809e@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280629
+DTEND;VALUE=DATE:20280630
+SUMMARY:Donkey — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 29/06/2028\; Versão a
+ nterior: 29/06/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Donkey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9ae798e4236b85228d02f7@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Motoqueiro Fantasma — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 27/07/2028\; Versão a
+ nterior: 27/07/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Motoqueiro Fantasma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:00b9757484b53cffa0569a69@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:The Flood — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 10/08/2028\; Versão a
+ nterior: 10/08/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Flood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7e028eba9e4c96a92d32d4@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:Gladys — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 07/09/2028\; Versão a
+ nterior: 07/09/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Gladys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e24957164cd45c1b1247993@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20280921
+DTEND;VALUE=DATE:20280922
+SUMMARY:Dynamic Duo — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 21/09/2028\; Versão a
+ nterior: 21/09/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Dynamic Duo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e79a368189afab3dc678eac@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:The Lunar Chronicles — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 02/11/2028\; Versão a
+ nterior: 02/11/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: The Lunar Chronicles
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de6b29cb18084bdc455d9d29@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:Clay — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 23/11/2028\; Versão a
+ nterior: 23/11/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Clay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a01aad891e5ac44bd60c9e@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:Pantera Negra 3 — BR (previsto)
+DESCRIPTION:Estreia BR prevista\; ainda não anunciada pela UCI/Cinemark na
+ s fontes consultadas\nAs datas de estreia NÃO confirmam sessões no UCI A
+ nália Franco nem no Cinemark Mooca Plaza.\nFontes: Lista inicial BR\, Ver
+ são anterior\nDatas consultadas: Lista inicial BR: 14/12/2028\; Versão a
+ nterior: 14/12/2028\nUCI: https://ucicinemas.com.br/Filmes/proximos_lancam
+ entos\nCinemark: https://www.cinemark.com.br/?menu=em_breve\nA programaç
+ ão e as datas podem mudar.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Pantera Negra 3
 END:VALARM
 END:VEVENT
 END:VCALENDAR
