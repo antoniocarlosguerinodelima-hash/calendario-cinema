@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cinema UCI Analia Franco//Estreias 2026//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cinema - UCI Anália Franco + Cinemark Mooca
+X-WR-CALDESC:Estreias UCI Anália Franco e Cinemark Mooca Plaza a partir de 05/11/2026. Arquivo estático.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+
+UID:249ca542e03050d18cd66e4b1e091593@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Assalto à Brasileira — UCI ✓
+DESCRIPTION:Sessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Assalto à Brasileira
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:301cd26d3c685352a2a6a00ffd519ed4@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Cavalo Selvagem Nove — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Cavalo Selvagem Nove
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:af061f34a2875fc5b4f7931858dd80b1@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Feito Pipa — UCI ✓
+DESCRIPTION:Sessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Feito Pipa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:8e5eeb888c85533e9d7ad6a15acc6733@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Godzilla Minus Zero — UCI + Cinemark ✓
+DESCRIPTION:Cinemark Mooca Plaza: sessões identificadas na programação consultada em 04/11/2026 para estreia de 05/11/2026.\nFonte Cinemark: https://www.ingresso.com/cinema/cinemark-mooca\nSessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Godzilla Minus Zero
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:336afc7953b8590f95fc78c1927246e8@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Klara e o Sol — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Klara e o Sol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a3f6956fff315f4ea7e72216ab2366c0@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Os Farofeiros 3 — UCI + Cinemark ✓
+DESCRIPTION:Cinemark Mooca Plaza: sessões identificadas na programação consultada em 04/11/2026 para estreia de 05/11/2026.\nFonte Cinemark: https://www.ingresso.com/cinema/cinemark-mooca\nSessão identificada no UCI Anália Franco em 05/11/2026.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Os Farofeiros 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:6337a46c2338507ab6fad5404c010585@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Gustavo Mioto - Inconfundível Tour — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Gustavo Mioto - Inconfundível Tour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:744dbce3e5435a4cacc36a3007a753aa@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Stray Kids World Tour - RUN IT - Live Viewing — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Stray Kids World Tour - RUN IT - Live Viewing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:710a585ef5e05617a8981cc66e8d4c9b@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Opera Ballet - Romeo & Juliet — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Opera Ballet - Romeo & Juliet
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:908af180500d563eaaa844118c559699@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:A Virada: Ignição da Alma — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: A Virada: Ignição da Alma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:bc5f143f499a5381ae640c38c348ae3b@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Como Roubar um Banco — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Como Roubar um Banco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:f2eb927a7556512988913fb565fe6ed9@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Ebenezer e os Fantasmas do Natal — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Ebenezer e os Fantasmas do Natal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:96f13989f8eb52e38d08eb1207d4cc84@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lago dos Ossos — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Lago dos Ossos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:73d7d301f6085f6e9662be6963060cf9@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Velozes e Furiosos (25º Aniversário) — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Velozes e Furiosos (25º Aniversário)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:38621f78e3d25a80be74d0dfaf54edd9@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Eu Sou o Rocky — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Eu Sou o Rocky
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:2abe737de88f5771b318544ac9e6f6b7@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:I Love Boosters — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: I Love Boosters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:607b171a78f55ad196d5edc15ad49e91@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Jogos Vorazes - Amanhecer na Colheita — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Jogos Vorazes - Amanhecer na Colheita
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:11d0d19b1e165613a2b227421d255d2d@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:O Verão da Lata — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: O Verão da Lata
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:f13fc29cff1052b88517c18b66b40d70@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Ramayana: O Nascimento de uma Lenda — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Ramayana: O Nascimento de uma Lenda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:61d39e3b729c53eeb158aad12fb1cd07@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BTS World Tour 'Arirang' in Kaohsiung — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: BTS World Tour 'Arirang' in Kaohsiung
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:03ce9519ac635919a268c6f597414f30@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Enfeitiçadas: Bem-vindos a Hexe — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Enfeitiçadas: Bem-vindos a Hexe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:f0685ba9e12358d3a35da7abcfd6e21d@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Entrando Numa Grande Fria — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Entrando Numa Grande Fria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:b1f282b126525faa9aa529c4531e864a@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Pecadora — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Pecadora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:22c60cf902095d66a763d90a3f1deb31@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Zero D.C — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Zero D.C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:9a0bb8a99df7559b8282fd603e14df65@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Paris Opera Ballet - O Lago dos Cisnes — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Paris Opera Ballet - O Lago dos Cisnes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:4f0a91d5a121581493a70bfa3d22c4b1@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Duna - Parte 3 — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: Duna - Parte 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:fd03f111f8005b3bad9a84a86a2832d7@uci-calendar.local
+DTSTAMP:20261105T110151Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:BTS World Tour 'Arirang' in Jakarta — UCI (previsto)
+DESCRIPTION:Estreia anunciada pela rede UCI\; sessão no Anália Franco ainda não confirmada nesta verificação.\nFonte: https://novosite.ucicinemas.com.br/em%2Bbreve\nProgramação da unidade: https://www.ingresso.com/cinema/uci-analia-franco\nDatas podem mudar. Calendário inicial estático\; não atualiza automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: BTS World Tour 'Arirang' in Jakarta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+
+UID:0cdb112b053bc91a2d0f4c86f2f18127@cinema-calendar.local
+DTSTAMP:20261105T110300Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:O Gatola da Cartola — Cinemark ✓
+DESCRIPTION:Cinemark Mooca Plaza: estreia 05/11/2026 e sessões identificadas na programação consultada em 04/11/2026.\nUCI Anália Franco: não confirmado nesta verificação.\nFonte: https://www.adorocinema.com/programacao/cinema-F0412/\nProgramação: https://www.ingresso.com/cinema/cinemark-mooca\nArquivo estático; não sincroniza alterações futuras automaticamente.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Estreia em 7 dias: O Gatola da Cartola
+END:VALARM
+END:VEVENT
+END:VCALENDAR
