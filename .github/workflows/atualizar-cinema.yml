@@ -1,5 +1,10 @@
 name: Atualizar calendário de cinema
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/atualizar-cinema.yml'
+      - 'atualizar.py'
   schedule:
     - cron: "17 11 * * *"
   workflow_dispatch:
