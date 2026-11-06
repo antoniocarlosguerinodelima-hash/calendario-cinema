@@ -466,9 +466,9 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:Eu Sou o Rocky — UCI
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
  ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinemas.co
- m.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?m
- enu=em_breve
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
