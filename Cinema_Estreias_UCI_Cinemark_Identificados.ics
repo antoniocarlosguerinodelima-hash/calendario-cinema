@@ -2549,4 +2549,13 @@ TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Pantera Negra 3
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:teste-sincronizacao-20261120@calendario-cinema.local
+DTSTAMP:20261110T120000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:TESTE: sincronização Apple Calendar (não é filme) — BR (previsto)
+DESCRIPTION:EVENTO DE TESTE. Criado para verificar a atualização automática do calendário assinado no iPhone. Não é uma estreia real.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
