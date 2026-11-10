@@ -250,9 +250,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:A Virada: Ignição da Alma — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -304,9 +304,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Como Roubar um Banco — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -319,12 +319,12 @@ UID:ed991c68f402f1582807edef@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Contos Paralelos — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Contos Paralelos — Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: Cinemark\
+ nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirma
+ das.\nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinem
+ as.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.
+ br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -337,12 +337,12 @@ UID:f2eb927a7556512988913fb565fe6ed9@uci-calendar.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Ebenezer e os Fantasmas do Natal — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
+SUMMARY:Ebenezer e os Fantasmas do Natal — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -376,9 +376,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Lago dos Ossos — UCI
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
  ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
+ nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinemas.co
+ m.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?m
+ enu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -409,12 +409,12 @@ UID:c6238a9539b1f1240eff9624@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Pinóquio: Maldição de Madeira — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Pinóquio: Maldição de Madeira — Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: Cinemark\
+ nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirma
+ das.\nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinem
+ as.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.
+ br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
