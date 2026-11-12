@@ -752,12 +752,12 @@ UID:bcbda2a6d0b0631b6a89ef68@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Tudo Pode Ser Visto — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Tudo Pode Ser Visto — Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: Cinemark\
+ nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirma
+ das.\nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinem
+ as.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.
+ br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
