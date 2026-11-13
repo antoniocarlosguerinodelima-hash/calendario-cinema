@@ -17,6 +17,9 @@ FILE = Path("Cinema_Estreias_UCI_Cinemark_Identificados.ics")
 UCI = "https://ucicinemas.com.br/Filmes/proximos_lancamentos"
 CINEMARK = "https://www.cinemark.com.br/?menu=em_breve"
 ALIAS = {
+    "verao da lata": "o verao da lata",
+    "o nascimento de cristo zero d c": "zero dc",
+    "zero d c": "zero dc",
     "hexed": "enfeiticadas bem vindos a hexe",
     "dune part three": "duna parte tres",
     "avengers doomsday": "vingadores doutor destino",
