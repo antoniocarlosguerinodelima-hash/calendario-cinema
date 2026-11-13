@@ -499,12 +499,12 @@ UID:2abe737de88f5771b318544ac9e6f6b7@uci-calendar.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:I Love Boosters — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
+SUMMARY:I Love Boosters — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
+ .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
+ /?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -564,24 +564,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Malês (Relançamento)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:11d0d19b1e165613a2b227421d255d2d@uci-calendar.local
-DTSTAMP:20261105T120000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:O Verão da Lata — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Estreia em 7 dias: O Verão da Lata
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -910,6 +892,24 @@ DESCRIPTION:Estreia em 7 dias: O Nascimento  De Cristo: Zero D.C.
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:11d0d19b1e165613a2b227421d255d2d@uci-calendar.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:O Verão da Lata — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
+ .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
+ /?menu=em_breve
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: O Verão da Lata
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:f69941ac81eef05e76af58d0@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261203
@@ -943,24 +943,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Psicopata Vitoriana
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:22c60cf902095d66a763d90a3f1deb31@uci-calendar.local
-DTSTAMP:20261105T120000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Zero D.C — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinemas.co
- m.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?m
- enu=em_breve
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Estreia em 7 dias: Zero D.C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
