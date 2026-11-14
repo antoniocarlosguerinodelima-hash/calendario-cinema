@@ -680,12 +680,12 @@ UID:d539dc1ebf601ef366e016e3@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:O Intruso — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:O Intruso — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -860,12 +860,12 @@ UID:1b911c5807c9f415f29014e6@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Noite Ainda Mais Infeliz — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Noite Ainda Mais Infeliz — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -932,12 +932,12 @@ UID:efa63f20456fd7a69ccebaa6@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Psicopata Vitoriana — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Psicopata Vitoriana — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
