@@ -176,8 +176,23 @@ def build(items):
     result.append("END:VCALENDAR")
     return "\r\n".join(fold(line) for line in result) + "\r\n"
 
+def confirmed_distributor_releases(items):
+    # Fonte verificável: Cinemark e Portal Exibidor, com estreia brasileira.
+    # A página da rede não comprova sessões nas unidades específicas.
+    title = "Josephine: Fragmentos de um Crime"
+    day = dt.date(2026, 11, 19)
+    key = normal(title)
+    if key not in items:
+        items[key] = dict(title=title, date=day, uid=None,
+                          networks={"Cinemark"},
+                          origin="Cinemark: https://www.cinemark.com.br/filme/josephine-fragmentos-de-um-crime | Exibidor: https://www.exibidor.com.br/filme/17680/josephine-fragmentos-de-um-crime.html")
+    else:
+        items[key]["networks"].add("Cinemark")
+
+
 def main():
     items = load()
+    confirmed_distributor_releases(items)
     if not items:
         raise RuntimeError("Arquivo inicial .ics ausente: não sobrescrever calendário.")
     successes = 0
