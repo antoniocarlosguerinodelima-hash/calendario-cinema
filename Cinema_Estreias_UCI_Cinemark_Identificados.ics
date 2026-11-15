@@ -549,6 +549,25 @@ DESCRIPTION:Estreia em 7 dias: Jogos Vorazes - Amanhecer na Colheita
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:32631bd88d52afebdd1fce49@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Josephine: Fragmentos de um Crime — Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: Cinemark\
+ nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirma
+ das.\nOrigem: Cinemark: https://www.cinemark.com.br/filme/josephine-fragme
+ ntos-de-um-crime | Exibidor: https://www.exibidor.com.br/filme/17680/josep
+ hine-fragmentos-de-um-crime.html\nUCI: https://ucicinemas.com.br/Filmes/pr
+ oximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_breve
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Josephine: Fragmentos de um Crime
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:f63a4df1b5bf37fb615e1fc9@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261119
