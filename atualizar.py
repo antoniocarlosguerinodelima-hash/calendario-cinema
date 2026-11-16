@@ -189,6 +189,19 @@ def confirmed_distributor_releases(items):
     else:
         items[key]["networks"].add("Cinemark")
 
+    # Estreias brasileiras publicadas no Portal Exibidor.
+    # Registro como previsão nacional, sem alegar confirmação nas redes/unidades.
+    for title, day, source in [
+        ("O Projeto", dt.date(2026, 11, 19),
+         "https://www.exibidor.com.br/filme/17151/o-projeto.html"),
+        ("As Novas Desventuras de Cliff Booth", dt.date(2026, 11, 25),
+         "https://www.exibidor.com.br/filme/17837/as-novas-desventuras-de-cliff-booth.html"),
+    ]:
+        key = normal(title)
+        if key not in items:
+            items[key] = dict(title=title, date=day, uid=None,
+                              networks=set(), origin="Portal Exibidor: " + source)
+
 
 def main():
     items = load()
