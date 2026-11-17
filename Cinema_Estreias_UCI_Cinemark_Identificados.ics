@@ -502,9 +502,9 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:I Love Boosters — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -701,9 +701,9 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Entrando Numa Grande Fria — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -734,12 +734,12 @@ UID:d539dc1ebf601ef366e016e3@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:O Intruso — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
+SUMMARY:O Intruso — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
+ .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
+ /?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -752,12 +752,12 @@ UID:b1f282b126525faa9aa529c4531e864a@uci-calendar.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Pecadora — UCI
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
- ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
- nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
- mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
- reve
+SUMMARY:Pecadora — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
+ .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
+ /?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -935,9 +935,9 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:O Nascimento  De Cristo: Zero D.C. — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -953,9 +953,9 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:O Verão da Lata — UCI + Cinemark
 DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
  emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
- nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
- .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
- /?menu=em_breve
+ nfirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: https://uc
+ icinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemar
+ k.com.br/?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
