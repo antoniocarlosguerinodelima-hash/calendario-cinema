@@ -194,7 +194,7 @@ def confirmed_distributor_releases(items):
     for title, day, source in [
         ("O Projeto", dt.date(2026, 11, 19),
          "https://www.exibidor.com.br/filme/17151/o-projeto.html"),
-        ("As Novas Desventuras de Cliff Booth", dt.date(2026, 11, 25),
+        ("As Novas Desventuras de Cliff Booth", dt.date(2026, 11, 26),
          "https://www.exibidor.com.br/filme/17837/as-novas-desventuras-de-cliff-booth.html"),
     ]:
         key = normal(title)
