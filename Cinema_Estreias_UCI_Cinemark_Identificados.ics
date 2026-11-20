@@ -1146,14 +1146,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3916101f2c4bd76d0fb43847@estreias-cinema.local
 DTSTAMP:20261105T120000Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-SUMMARY:Angry Birds 3: O Filme — Cinemark
-DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: Cinemark\
- nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirma
- das.\nOrigem: Base inicial — previsão brasileira\nUCI: https://ucicinem
- as.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.
- br/?menu=em_breve
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Angry Birds 3: O Filme — UCI + Cinemark
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\, Cin
+ emark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda não co
+ nfirmadas.\nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas
+ .com.br/Filmes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br
+ /?menu=em_breve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1166,12 +1166,12 @@ UID:1139ba29431bce6b49e72d4f@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:Jumanji: Mundo Real — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Jumanji: Mundo Real — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1202,12 +1202,12 @@ UID:7a0f2879304947fa26f01eb6@estreias-cinema.local
 DTSTAMP:20261105T120000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:Tigre de Papel — BR (previsto)
-DESCRIPTION:Estreia prevista para o Brasil.\nSem confirmação nas redes UC
- I e Cinemark\nSessões no UCI Anália Franco e Cinemark Mooca Plaza ainda 
- não confirmadas.\nOrigem: Base inicial — previsão brasileira\nUCI: htt
- ps://ucicinemas.com.br/Filmes/proximos_lancamentos\nCinemark: https://www.
- cinemark.com.br/?menu=em_breve
+SUMMARY:Tigre de Papel — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1267,6 +1267,24 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Lobis-Homem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a33a07d6931d28ec787261@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Nosso Lar 3 — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Nosso Lar 3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1699,6 +1717,24 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P7D
 DESCRIPTION:Estreia em 7 dias: Interligados
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d5490d7019a8aa525f73e8b8@estreias-cinema.local
+DTSTAMP:20261105T120000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Minha Vida Com Shurastey — UCI
+DESCRIPTION:Estreia prevista para o Brasil.\nAnunciado nas redes: UCI\nSess
+ ões no UCI Anália Franco e Cinemark Mooca Plaza ainda não confirmadas.\
+ nOrigem: Site oficial UCI — em breve\nUCI: https://ucicinemas.com.br/Fil
+ mes/proximos_lancamentos\nCinemark: https://www.cinemark.com.br/?menu=em_b
+ reve
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Estreia em 7 dias: Minha Vida Com Shurastey
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
